@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Clone the project into local
 
 Install all the npm packages. Go into the project folder and type the following command
-npm install
+
+### `npm install`
 
 In the project directory, you can run:
 
